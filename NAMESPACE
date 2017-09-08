@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("fGarch", "dsnorm")
+importFrom("flexmix", "KLdiv")
+importFrom("stats", "runif", "dnorm","dunif", "rnorm", "sd")
